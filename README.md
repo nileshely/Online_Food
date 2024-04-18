@@ -1,1 +1,4 @@
-# Online_Food
+# Online Food
+
+**Description:**
+The Online Food Order Dataset captures a comprehensive array of information gathered from an online food ordering platform spanning across various demographics and order details. It includes demographic attributes such as age, gender, marital status, occupation, monthly income, educational qualifications, and family size, offering insights into the customer base. Additionally, the dataset provides location information through latitude, longitude, and pin code, enabling geographical analysis. The order details section encompasses crucial information about the current status of orders, ranging from pending to delivered, along with feedback provided by customers post-receiving their orders. This dataset serves as a valuable resource for understanding customer behavior, preferences, and satisfaction levels within the context of online food ordering.
